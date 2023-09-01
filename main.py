@@ -11,6 +11,8 @@ import click
 @click.argument("b", type=int)
 def add_cli(a, b):
     click.echo(add(a, b))
+    click.echo(add(a, b))
+
 
 
 if __name__ == "__main__":
