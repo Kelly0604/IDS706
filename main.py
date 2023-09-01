@@ -12,6 +12,7 @@ import click
 def add_cli(a, b):
     click.echo(add(a, b))
     click.echo(add(a, b))
+    click.echo(add(a, b))
 
 
 
