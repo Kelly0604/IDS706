@@ -8,4 +8,4 @@
     README
     requiremets
 
-![GitHub CI](https://github.com/Kelly0604/IDS706/actions/workflows/CI.yml/badge.svg)
+[![CI](https://github.com/Kelly0604/IDS706/actions/workflows/CI.yml/badge.svg)](https://github.com/Kelly0604/IDS706/actions/workflows/CI.yml)
